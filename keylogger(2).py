@@ -70,5 +70,5 @@ class Keylogger:
 
 k = Keylogger(5,"your_email","password_your_email")
 k.start()
-#For any problems with the code, you can contact us via Telegram
+#لأي مشاكل في الكود يمكنكم التواصل معنا عبر تليجرام
 #https://web.telegram.org/k/#@Lion20021
